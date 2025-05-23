@@ -1,7 +1,6 @@
 # Bone Segmentation and Landmark Detection in 3D Knee CT Scans
 
-This project processes 3D CT scans of the knee to segment bone regions (femur and tibia), perform contour modifications, and detect anatomical landmarks. It includes image processing techniques only, and produces multiple segmentation masks and landmark outputs.
-
+This project processes 3D CT scans of the knee to detect anatomical landmarks, perform contour modifications, also segment bone regions (femur and tibia). Only image processing techniques are used for the production of multiple segmentation masks with landmark outputs.
 
 ---
 
