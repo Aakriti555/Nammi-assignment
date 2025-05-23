@@ -1,0 +1,23 @@
+Tibial Landmark Coordinates (Medial and Lateral Lowest Points)
+------------------------------------------------------------
+
+tibia_intensity.nii.gz:
+  Medial Lowest: (np.float64(-101.68958652019501), np.float64(-14.775488257408142), np.float64(-900.5))
+  Lateral Lowest: (np.float64(-74.74621605873108), np.float64(-27.812602996826172), np.float64(-900.5))
+
+tibia_2mm_expanded_intensity.nii.gz:
+  Medial Lowest: (np.float64(-103.42786848545074), np.float64(-14.775488257408142), np.float64(-900.5))
+  Lateral Lowest: (np.float64(-73.00793409347534), np.float64(-27.812602996826172), np.float64(-900.5))
+
+tibia_4mm_expanded_intensity.nii.gz:
+  Medial Lowest: (np.float64(-104.29700946807861), np.float64(-14.775488257408142), np.float64(-900.5))
+  Lateral Lowest: (np.float64(-72.13879311084747), np.float64(-27.812602996826172), np.float64(-900.5))
+
+tibia_random_1_expanded_intensity.nii.gz:
+  Medial Lowest: (np.float64(-103.42786848545074), np.float64(-14.775488257408142), np.float64(-900.5))
+  Lateral Lowest: (np.float64(-73.00793409347534), np.float64(-27.812602996826172), np.float64(-900.5))
+
+tibia_random_2_expanded_intensity.nii.gz:
+  Medial Lowest: (np.float64(-102.55872750282288), np.float64(-14.775488257408142), np.float64(-900.5))
+  Lateral Lowest: (np.float64(-73.87707507610321), np.float64(-27.812602996826172), np.float64(-900.5))
+
